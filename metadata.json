@@ -1,0 +1,5 @@
+{
+  "name": "UniConnect - UIGM Palembang Student Portal",
+  "description": "A comprehensive student service platform for UIGM Palembang students, offering campus services like laundry, boarding houses (kos), and transport with integrated SSO login and fictional payment systems.",
+  "requestFramePermissions": []
+}
